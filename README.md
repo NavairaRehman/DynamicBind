@@ -3,7 +3,11 @@ Source code for the *Nature Communications* paper [DynamicBind: predicting ligan
 
 DynamicBind recovers ligand-specific conformations from unbound protein structures (e.g. AF2-predicted structures), promoting efficient transitions between different equilibrium states.
 
+
 ![](dynbind.gif)
+
+# Colab Notebook (Run in the browser)
+[Find the notebook here](https://colab.research.google.com/drive/1AhqAo90BimvrubuRs0nrjm75z8KMNBFU?usp=sharing.)
 
 # Setup Environment
 
